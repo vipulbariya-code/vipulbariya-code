@@ -30,3 +30,22 @@
 ⭐ Pick My AI
 
 ---
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vipulbariya/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://www.instagram.com/vipul._x07" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="https://github.com/vipulbariya-code" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="https://vipulbariya.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</p>
