@@ -20,6 +20,14 @@
 - 🌱 Currently improving my JavaScript, PHP & WordPress skills
 
 ---
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vipulbariya-code&show_icons=true&theme=chartreuse-dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vipulbariya-code&theme=chartreuse-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulbariya-code&layout=compact&theme=chartreuse-dark)
+
 
 ### 🌐 Portfolio
 
@@ -49,12 +57,3 @@
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
-
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vipulbariya-code&show_icons=true&theme=chartreuse-dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vipulbariya-code&theme=chartreuse-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulbariya-code&layout=compact&theme=chartreuse-dark)
