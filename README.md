@@ -2,58 +2,97 @@
 
 # 👋 Hey, I'm Vipul Bariya
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Cybersecurity+Learner;AI+Enthusiast;Building+Real+World+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Cybersecurity+Learner;AI+Enthusiast;WordPress+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
-## 💻 Full Stack Web Developer | 🛡 Cybersecurity Learner | 🤖 AI Enthusiast
-
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 - 🎓 B.Tech Computer Engineering Student
-- 💻 Passionate Web Developer
-- 🛡 Learning Ethical Hacking & Cyber Security
+- 💻 Full Stack Web Developer
+- 🌐 WordPress Website Developer
+- 🛡️ Learning Ethical Hacking & Cyber Security
 - 🤖 Exploring Artificial Intelligence
 - 🚀 Building Real World Projects
-- 🌱 Currently improving my JavaScript, PHP & WordPress skills
+- 📚 Always learning new technologies
 
 ---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,git,github,vscode,python,c,java,linux" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vipulbariya-code&show_icons=true&theme=chartreuse-dark)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vipulbariya-code&theme=chartreuse-dark)
+<img src="https://github-readme-stats.vercel.app/api?username=vipulbariya-code&show_icons=true&theme=chartreuse-dark"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulbariya-code&layout=compact&theme=chartreuse-dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulbariya-code&theme=chartreuse-dark"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulbariya-code&layout=compact&theme=chartreuse-dark"/>
 
-### 🌐 Portfolio
+</p>
+
+---
+
+## 🛠️ Currently Learning
+
+- 🔐 Cyber Security
+- 🐧 Linux
+- 🤖 Artificial Intelligence
+- ⚛️ Modern JavaScript
+- 🌍 Web Security
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 Pick My AI
+AI Tool Discovery Platform
+
+🔗 https://pickmyai.vercel.app/
+
+### 🌐 Personal Portfolio
 
 🔗 https://vipulbariya.netlify.app/
 
-### 🚀 Current Project
-
-⭐ Pick My AI
-
 ---
+
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/vipulbariya/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vipulbariya/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://www.instagram.com/vipul._x07" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+<a href="https://www.instagram.com/vipul._x07">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
-<a href="https://github.com/vipulbariya-code" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
+<a href="https://github.com/vipulbariya-code">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://vipulbariya.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://vipulbariya.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
 </p>
+
+---
+
+<div align="center">
+
+### 🚀 "Code • Learn • Build • Secure"
+
+⭐ Thanks for visiting my profile ⭐
+
+</div>
