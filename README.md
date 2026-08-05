@@ -61,7 +61,7 @@ AI Tool Discovery Platform
 
 ### 🌐 Personal Portfolio
 
-🔗 https://vipulbariya.netlify.app/
+🔗 https://vipulbariya-code.github.io/Personal-portfolio/
 
 ---
 
@@ -81,7 +81,7 @@ AI Tool Discovery Platform
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://vipulbariya.netlify.app/">
+<a href="https://vipulbariya-code.github.io/Personal-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
